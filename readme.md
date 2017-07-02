@@ -8,6 +8,9 @@
 
 ### 安装过程
 1. 项目 clone 到本地
+```
+git clone https://github.com/windcode/my-redis.git
+```
 2. 双击目录中 **install-redis.bat** 运行批处理文件
 3. 注销或者重启电脑，使配置生效
 
